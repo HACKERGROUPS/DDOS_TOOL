@@ -1,3 +1,3 @@
-1. How to use Hammer [`Watch it`](http://www.youtube.com/watch?v=HVbRUhX2EPo) 
-2. Fork it...
-
+git clone https://github.com/HACKERGROUPS/DDOS_TOOL/
+cd DDOS_TOOL
+python3 ddostool.py
